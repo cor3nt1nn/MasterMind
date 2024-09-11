@@ -1,0 +1,15 @@
+Bienvenue dans l'installeur du jeu MasterMind !
+
+Avant de commencer l'installation, veuillez prendre un moment pour lire les instructions ci-dessous :
+
+1. Licence d'utilisation : En installant et en utilisant ce jeu, vous acceptez les termes et conditions de notre licence d'utilisation. Veuillez consulter le contrat de licence inclus pour plus de details.
+
+2. Configuration systeme requise : Assurez-vous que votre systeme admet un Java Runtime Environment (JRE) a jour. Vous pouvez telechargez une version ici : https://www.java.com/fr/download/manual.jsp .
+
+3. Assistance technique : En cas de probleme lors de l'installation ou de l'utilisation du jeu, nous sommes a votre disposition pour vous aider. N'hesitez pas a nous contacter via nos adresses mails :
+    -   Corentin.BESQUEUT@etu.uca.fr
+    -   Maxance.VILLEDIEU@etu.uca.fr
+
+Nous vous remercions de votre interet et nous vous souhaitons de nombreuses heures de jeu ! 
+
+Cliquez sur "Suivant" pour demarrer l'installation.
